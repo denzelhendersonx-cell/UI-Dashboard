@@ -1,0 +1,6 @@
+{
+  "name": "Kavik Operations Dashboard",
+  "description": "A high-performance home healthcare operations and SaaS triage dashboard with real-time incident queues, EVV compliance, caregiver field metrics, TanStack data tables, and AI decision support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
